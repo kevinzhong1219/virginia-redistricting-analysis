@@ -2,8 +2,8 @@
 .ipynb_checkpoints/
 
 # Ignore specific VA datasets
-VA/va_vest_20/
-VA/va_vest_18/
-VA/va_sldu_adopted_2021/
-VA/va_pl2020_cnty/
-VA/va_pl2020_b/
+va_pl2020_b/
+va_pl2020_cnty/
+va_sldu_adopted_2021/
+va_vest_18/
+va_vest_20/
