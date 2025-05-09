@@ -20,4 +20,4 @@ This is the final project for CS664, focused on analyzing redistricting in Virgi
   VEST 2018 Virginia precinct boundaries and election outcomes
 
 ## Final Report Link
-- **[Final Report]([https://redistrictingdatahub.org/dataset/virginia-block-pl-94171-2020/](https://www.overleaf.com/read/fpkktxsrpwzp#eb9cc1))**  
+- **[Final Report](https://www.overleaf.com/read/fpkktxsrpwzp#eb9cc1)**  
