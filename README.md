@@ -23,4 +23,4 @@ This is the final project for CS664, focused on analyzing redistricting in Virgi
 - **[Final Report](https://www.overleaf.com/read/fpkktxsrpwzp#eb9cc1)**  
 
 ## Final Presentation Slide
-- **[Final Report](https://docs.google.com/presentation/d/19glYDb9ecTDkjJYXnHUpCISh9_qvU2qAIBclsSVAGIo/edit?slide=id.g354ba64ca8d_0_97#slide=id.g354ba64ca8d_0_97)**  
+- **[Final Presentation](https://docs.google.com/presentation/d/19glYDb9ecTDkjJYXnHUpCISh9_qvU2qAIBclsSVAGIo/edit?slide=id.g354ba64ca8d_0_97#slide=id.g354ba64ca8d_0_97)**  
